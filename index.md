@@ -8,7 +8,7 @@
 <body>
     <h1>BenzAI software</h1>
     <p>
-    BenzAI is a software able to generate any benzenoid risponding to specific criteria, analyze their electronic structure and provide infrared spectra stored on an external database.
+    BenzAI is a software (using <a href="https://www.cosling.com/fr/choco-solver"> Choco Solver</a>) able to generate any benzenoid risponding to specific criteria, analyze their electronic structure and provide infrared spectra stored on an external database.
     </p>
     <h1> Download links </h1>
     <p><a href="https://github.com/benzAI-team/BenzAI">Github page</a></p>
