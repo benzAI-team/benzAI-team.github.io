@@ -14,9 +14,12 @@
     <p><a href="https://github.com/benzAI-team/BenzAI">Github page</a></p>
     <p><a href="https://github.com/benzAI-team/BenzAI/releases">Download BenzAI</a></p>
     <h1>Bibliography</h1>
-    <p><a href="https://hal.archives-ouvertes.fr/hal-02931934/"> Using Constraint Programming to Generate Benzenoid Structures in Theoretical Chemistry </a> In     <i>Proceedings of the 27th International Conference on Principles and Practice of Constraint Programming (CP)</i>, pages 19:1-19:18, 2021.</p>
-    <p><a href="https://hal-amu.archives-ouvertes.fr/hal-03402690"> Exhaustive Generation of Benzenoid Structures Sharing Common Patterns </a> In <i>Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP)</i>, pages 690-706, 2020</p>
-    <p><a href="https://hal-amu.archives-ouvertes.fr/hal-02931928"> Computing the Local Aromaticity of Benzenoids Thanks to Constraint Programming </a> In <i>Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP)</i>, pages 673-689,à</p>
+    <p><a href="https://hal.archives-ouvertes.fr/hal-02931934/"> Using Constraint Programming to Generate Benzenoid Structures in Theoretical Chemistry</a>.<br>
+        In <i>Proceedings of the 27th International Conference on Principles and Practice of Constraint Programming (CP)</i>, pages 19:1-19:18, 2021.</p>
+    <p><a href="https://hal-amu.archives-ouvertes.fr/hal-03402690"> Exhaustive Generation of Benzenoid Structures Sharing Common Patterns</a>.<br>
+        In <i>Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP)</i>, pages 690-706, 2020.</p>
+    <p><a href="https://hal-amu.archives-ouvertes.fr/hal-02931928"> Computing the Local Aromaticity of Benzenoids Thanks to Constraint Programming</a>. <br>
+        In <i>Proceedings of the 26th International Conference on Principles and Practice of Constraint Programming (CP)</i>, pages 673-689, 202.0</p>
     <h1> Contact </h1>
     <p> Adrien VARET: <a href="mailto:adrien.varet@lis-lab.fr"> adrien.varet@lis-lab.fr</a></p>
     <p> Cyril TERRIOUX: <a href="mailto:cyril.terrioux@univ-amu.fr"> cyril.terrioux@univ-amu.fr</a></p>
