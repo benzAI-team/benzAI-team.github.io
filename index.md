@@ -13,6 +13,10 @@
     <h1> Download links </h1>
     <p><a href="https://github.com/benzAI-team/BenzAI">Github page</a></p>
     <p><a href="https://github.com/benzAI-team/BenzAI/releases">Download BenzAI</a></p>
+    <h1>Bibliography</h1>
+    <p><a href="https://hal.archives-ouvertes.fr/hal-02931934/"> Using Constraint Programming to Generate Benzenoid Structures in Theoretical Chemistry </a></p>
+    <p><a href="https://hal-amu.archives-ouvertes.fr/hal-03402690"> Exhaustive Generation of Benzenoid Structures Sharing Common Patterns </a></p>
+    <p><a href="https://hal-amu.archives-ouvertes.fr/hal-02931928"> Computing the Local Aromaticity of Benzenoids Thanks to Constraint Programming </a></p>
     <h1> Contact </h1>
     <p> Adrien VARET: <a href="mailto:adrien.varet@lis-lab.fr"> adrien.varet@lis-lab.fr</a></p>
     <p> Cyril TERRIOUX: <a href="mailto:cyril.terrioux@univ-amu.fr"> cyril.terrioux@univ-amu.fr</a></p>
