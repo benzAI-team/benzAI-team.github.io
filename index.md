@@ -25,7 +25,7 @@ These problems are modeled and solved thanks to constraint programming and, in p
 * [Using Constraint Programming to Generate Benzenoid Structures in Theoretical Chemistry](https://hal.archives-ouvertes.fr/hal-02931934/).  
   In _Proceedings of the 27th International Conference on Principles and Practice of Constraint Programming (CP)_, pages 19:1-19:18, 2021.
 
-# Authors
+# BenzAI team
 * Adrien VARET
 * [Yannick CARISSAN](https://ism2.univ-amu.fr/fr/annuaire/ctom/carissanyannick)
 * [Denis HAGEBAUM-REIGNER](https://ism2.univ-amu.fr/fr/annuaire/ctom/hagebaum-reignierdenis)
