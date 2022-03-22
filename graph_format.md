@@ -19,7 +19,7 @@ Each line starts with a letter (in lower case) which specifies the kind of this 
 * Lines starting with the letter h: Such a line defines a hexagon. It contains the list of the six vertices that form the hexagon. 
   This list starts with the carbon atom located at the bottom of the hexagon and is given in counter-clockwise order.
 
-The graph describing anthracene:
+For example, here is the graph describing anthracene:
 
 ![Anthracene](gallery/anthracene.png)
 
